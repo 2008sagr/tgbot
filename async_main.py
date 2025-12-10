@@ -11,7 +11,7 @@ import json
 
 
 # Настройки
-BOT_TOKEN = ("8043008496:AAHrcQbDuvKEQ8EbzexF3CoYGJipje23t6g")
+BOT_TOKEN = ("")
 
 # Инициализация FastAPI
 app = FastAPI()

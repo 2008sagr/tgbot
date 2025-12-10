@@ -7,7 +7,7 @@ import io
 
 
 
-bot = telebot.TeleBot("8043008496:AAHrcQbDuvKEQ8EbzexF3CoYGJipje23t6g")
+bot = telebot.TeleBot("")
  
 
 
